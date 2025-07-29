@@ -33,9 +33,9 @@ Receive:
 
 Based on the last two digits of regNo, determine:
 
-    Odd → Question 1 → Question 1 PDF
+    Odd → Question 1 → (https://drive.google.com/file/d/1IeSI6l6KoSQAF fRihIT9tEDICtoz−G/view?usp = sharing)
 
-    Even → Question 2 → Question 2 PDF
+    Even → Question 2 → (https://drive.google.com/file/d/143MR5cLFrlNEuHzzWJ5RHnEWuijuM9X/view?usp =sharing)
 
 Submit the final SQL query to the webhook using:
 
